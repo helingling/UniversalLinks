@@ -8,7 +8,7 @@
            },
            {
                "appID": "DY6HXMN368.com.tdic.oneminute",
-               "paths": [ "*" ]
+               "paths": [ "/UniversalLinks/*" ]
            }
        ]
    }
