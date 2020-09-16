@@ -3,12 +3,8 @@
        "apps": [],
        "details": [
            {
-               "appID": "4VRCTWGG3Y.com.ruanqin.kbpplus",
-               "paths": [ "/app/*" ]
-           },
-           {
                "appID": "DY6HXMN368.com.tdic.oneminute",
-               "paths": [ "/UniversalLinks/*" ]
+               "paths": [ "*" ]
            }
        ]
    }
